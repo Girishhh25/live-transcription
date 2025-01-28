@@ -27,7 +27,7 @@ Node.js: Install necessary packages with npm install
 Setup Instructions
 
 Step 1: Clone the Repository
-git clone https://github.com/yourusername/live-transcription-app.git
+git clone https://github.com/yourusername/live-transcription.git
 cd live-transcription
 
 Step 2: Install Dependencies
