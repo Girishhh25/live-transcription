@@ -28,7 +28,7 @@ Setup Instructions
 
 Step 1: Clone the Repository
 git clone https://github.com/Girishhh25/live-transcription.git
-cd live-transcription
+cd project1
 
 Step 2: Install Dependencies
 1. Install Python Dependencies
