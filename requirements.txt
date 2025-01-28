@@ -1,0 +1,6 @@
+sounddevice
+flask
+requests
+numpy
+whisper-openai
+time
